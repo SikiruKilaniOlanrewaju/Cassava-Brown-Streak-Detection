@@ -6,3 +6,4 @@ pandas
 matplotlib
 scikit-learn
 jupyter
+Pillow  # for image processing with PIL
